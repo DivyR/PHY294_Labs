@@ -49,7 +49,7 @@ Gradual decay (q4)
 MS = 10
 T =  16.2s
 
-5.
+5 i).
 25.6cm
 28.9cm
 
@@ -86,7 +86,7 @@ T =  16.2s
 175.0cm
 175.1cm
 
-part 5 ii)
+part 5 ii).
 Before displacement
 tape1: 11cm
 tape2: 23cm
