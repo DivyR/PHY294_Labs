@@ -1,0 +1,137 @@
+IPhone Uncertainty: +- 0.1s
+Meter Stick: +- 0.5 cm = +- 0.05m
+
+1.
+L = d = 1.80m
+t1 = 2.2s
+t2 = 1.8s
+t3 = 2.4s
+t4 = 1.9s
+t5 = 1.9s
+t6 = 1.9s
+n = 1
+
+2.
+H = 0.87m
+    - should be able to use just H
+2W = 0.26m
+
+w_0 = 3.36 rad/s
+    g/H = (w_0)^2
+T (period) = 1.87s
+
+3.
+
+10T = 9.5s
+N = 3
+lamda = 80.5cm
+
+10T = 7.66s
+N = 3
+lamda = 128-106
+
+10T = 6.1s
+N = 4
+lamda1 = 34.5 - 82
+lamda2 = 82 - 240
+Video1 was recorded for this stage
+
+10T = 10.7s
+N = 2
+lamda = 94.5 -192.5
+
+10T = 14.7s
+N = 1
+lamda = 20 - 192.5
+Gradual decay (q4)
+
+4.
+MS = 10
+T =  16.2s
+
+5.
+25.6cm
+28.9cm
+
+33.0cm
+30.0cm
+
+42.8cm
+40.4cm
+
+48.5cm
+50.3cm
+
+59.0cm
+60.4cm
+
+71.7cm
+70.5cm
+
+80.5cm
+81.4cm
+
+90.8cm
+91.5cm
+
+109.6cm
+109.3cm
+
+123.5cm
+123.2cm
+
+133.3cm
+133.2cm
+
+175.0cm
+175.1cm
+
+part 5 ii)
+Before displacement
+tape1: 11cm
+tape2: 23cm
+tape3: 38.2cm
+tape4: 52.2cm
+tape5: 65.5cm
+tape6: 81.3cm
+tape7: 100.5cm
+tape8: 115.0cm
+tape9: 135.5cm
+tape10: 153.1cm
+
+After Displacement
+tape1: 5cm
+tape2: 18.7cm
+tape3: 35.2cm
+tape4: 50cm
+tape5: 64.3cm
+tape6: 80.5cm
+tape7: 100.1cm
+tape8: 114.4
+tape9: 135.2
+tape10: 153
+
+part 6
+*omitted*
+
+part 7
+length = 70.5 - 48
+omega_short = 6.6
+
+driven
+5T = 10.01s
+6T = 7.45
+
+section 1
+    inital amp is (16.5 - 12)
+    final amp is (33.5 - 29.5)
+section 2
+    intial amp is (41.5 - 38)
+    final amp is 0
+
+
+Calibration
+20: T = 4.3s
+40: 3T = 5.82s
+60: 5T = 5.97s
+80: 10T = 8.65s
