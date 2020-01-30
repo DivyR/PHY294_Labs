@@ -1,5 +1,5 @@
 IPhone Uncertainty: +- 0.1s
-Meter Stick: +- 0.5 cm = +- 0.05m
+Meter Stick: +- 0.5 cm = +- 0.005m
 
 1.
 L = d = 1.80m
