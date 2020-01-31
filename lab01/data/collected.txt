@@ -47,8 +47,7 @@ lamda = 20 - 192.5
 Gradual decay (q4)
 
 4.
-MS = 10
-T =  16.2s
+10T =  16.2s
 
 5 i).
 25.6cm
