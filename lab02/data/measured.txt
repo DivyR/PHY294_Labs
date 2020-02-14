@@ -1,0 +1,23 @@
+UNCERTAINTY CALIPER: 0.05cm
+
+WATER: GROUP 5 to GROUP 1 (cm)
+0.6, 0.5, 0.4, 0.3, 0.2
+
+GLYCEROL (cm)
+GROUP 5  (f:120, 15ps)
+0.6
+
+GROUP 4 (f: 120, 10ps)
+0.49
+
+GROUP 3 (f: 200, 5ps)
+0.31
+
+GROUP 2 (f: 250, 5ps)
+0.21
+
+GROUP (f: 350, 5ps)
+0.11
+
+
+CUBE: 9.2 x 9.2 cm
