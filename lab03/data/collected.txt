@@ -1,0 +1,34 @@
+Holographic-Rule Scale: 1:1 with cm
+N1_Coil = 16
+N2_Coil = 16
+
+Current=Constant; Voltage=V
+1. Current=19.97 # mA
+V = [317.6, 296.5, 278.0]  # volts
+Diameter = [7.00, 6.50, 6.00]  # tick
+
+Data Points: [[Voltage, Current, Diameter]]  # volts, mA, ticks
+[[278.0, 20.43, 6.00], [213.9, 9.08, 12.30], [213.9, 10.59, 10.70], [195.1, 10.62, 9.60], [195.1, 8.78, 12.1], [158.2, 8.78, 9.60]. [315.9, 10.71, 12.8], [301.8, 11.70, 11.6], [208.8, 10.89, 10.5], [185.1, 10.26, 9.50], [165.0, 7.41, 12.60], [208.4, 7.45, 13.1], [270.9, 18.57, 6.80], [270.9, 15.19, 8.40], [315.3, 21.00, 6.1], [260.9, 12.49, 9.4]]
+
+#So, what we;re seeing right now is essentially when we move down below some threshod what happens the ring kinda just dissapears but when we move it back up it doesnt go back to being a nice circle,
+#instead it stars off teardropping and when some time basses it snaps back to a full circle of the expected radius
+
+[135.2, 7.44, THRESHOLD]
+
+#When a phone is slid between the two coils and under the glass bulb we see the phone's interference
+#tug on the trail made by the electrons, while the overall diameter does not change much
+#the shape becomes more blurry and the lines are thicker likely due to some electrons being pull off trajectory resulting in a
+#more spread out appearance
+
+#When at low V, High I:
+#Decrease V -> Smaller Radius, Higher Rho
+#Increase V -> opposite
+#Decrease A -> Larger Radius, Lower Rho
+#Increase A -> opposite
+(A is controlled through resistance)
+
+#As the magnetic field strength increases, the actual trajectory of the
+#electrons become smaller and increasingly droopier, rho increases and the trajectory
+#also seems to begin to get stretched out resulting in sometimes multiple strands or very thick strands typically
+#in the lower half of the circle/ellipse. This resulted in making measurments more difficult as it was harder
+#to identify the exact diameter of the trajectory.
